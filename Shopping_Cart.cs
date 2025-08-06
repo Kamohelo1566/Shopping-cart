@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main()
     {
-        Product p1 = new Product("Nike", 125.14, "Shoes");
+        Product p1 = new Product("Nike", 125.14, "Shoes");      //add your products here
         Product p2 = new Product("Samsung", 35.24, "SmartPhone");
         Product p3 = new Product("Apple", 1.24, "Food");
 
@@ -78,3 +78,4 @@ public class ShoppingCart
         }
     }
 }
+
